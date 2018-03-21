@@ -109,7 +109,6 @@ class BinarySearchTree
 
 User inserts the following course numbers:
 
-
 285
 280
 163
@@ -147,8 +146,6 @@ List of courses more than one student interested:
 280 – 4
 365 – 3
 476 – 2
-
-
 
 ```
 
