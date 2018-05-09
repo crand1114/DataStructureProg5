@@ -1,7 +1,11 @@
-# Student: 
-
+# Student: Charles Randall
 
 ## Grading: 
+
+- class count and deletion not implemented -20
+
+### Grade: 80
+
 
 # Assignment #5: Binary Search Tree
 
